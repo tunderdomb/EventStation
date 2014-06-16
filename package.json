@@ -1,0 +1,15 @@
+{
+  "name": "EventStation",
+  "version": "1.0.0",
+  "description": "Event emitter implementation",
+  "main": "EventStation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "event",
+    "emitter"
+  ],
+  "author": "Nagy Zoltan <tunderdomb@gmail.com> (tunderdomb)",
+  "license": "MIT"
+}

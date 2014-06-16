@@ -1,0 +1,25 @@
+{
+  "name": "EventStation",
+  "main": "EventStation.js",
+  "version": "1.0.0",
+  "authors": [
+    "tunderdomb <tunderdomb@gmail.com>"
+  ],
+  "description": "Event emitter implementation",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "event",
+    "emitter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
